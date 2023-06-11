@@ -1,0 +1,26 @@
+.container {
+    padding: 50px 30px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(238, 252, 255);
+    min-height: 85vh;
+  }
+  img{
+    width: 400px;
+    height: 400px;
+  }
+  .right img {
+    width: 400px;
+  }
+  .heading {
+    margin: 0 auto;
+    max-width: 500px;
+    color: #000;
+    font-size: 3rem;
+    letter-spacing: 1px;
+  }
+  .para{
+    font-size: 1.6rem;
+    text-align:justify;
+  }
