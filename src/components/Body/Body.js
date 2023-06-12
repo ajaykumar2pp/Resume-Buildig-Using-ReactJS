@@ -1,8 +1,13 @@
 import React from 'react'
+import Editor from '../../Editor/Editor'
+import Resume from '../../Resume/Resume'
 
 const Body = () => {
   return (
-    <div>Body</div>
+    <div>
+      <Editor />
+      <Resume />
+    </div>
   )
 }
 
